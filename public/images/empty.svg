@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 260" role="img" aria-label="Пустой каталог">
+  <rect width="360" height="260" rx="28" fill="#fff8ea"/>
+  <circle cx="180" cy="105" r="58" fill="#d7efc5"/>
+  <path d="M141 103h78M180 64v78" stroke="#0f6b52" stroke-width="14" stroke-linecap="round"/>
+  <path d="M94 204h172" stroke="#151c18" stroke-width="12" stroke-linecap="round"/>
+</svg>

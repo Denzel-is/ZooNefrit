@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 460" role="img" aria-label="Товар ZooNefrit">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#fff8ea"/><stop offset="1" stop-color="#d7efc5"/></linearGradient>
+  </defs>
+  <rect width="640" height="460" rx="36" fill="url(#g)"/>
+  <rect x="160" y="128" width="230" height="245" rx="30" fill="#0f6b52"/>
+  <path d="M200 188h150M200 238h105M200 288h130" stroke="#fff8ea" stroke-width="26" stroke-linecap="round"/>
+  <circle cx="420" cy="178" r="62" fill="#151c18"/>
+  <path d="M390 162h60M420 132v60" stroke="#7cc456" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="430" cy="320" r="70" fill="#7cc456"/>
+  <path d="M400 322q30 32 62 0" fill="none" stroke="#151c18" stroke-width="14" stroke-linecap="round"/>
+</svg>

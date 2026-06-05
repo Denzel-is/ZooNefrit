@@ -1,0 +1,19 @@
+{
+  "name": "zoo-nefrit",
+  "version": "1.0.0",
+  "description": "ZooNefrit - responsive static website for zoo shop",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}

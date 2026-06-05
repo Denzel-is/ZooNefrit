@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="Зоотовары ZooNefrit">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#f8f0df"/><stop offset="1" stop-color="#cbe8bc"/></linearGradient>
+    <linearGradient id="jade" x1="0" x2="1"><stop stop-color="#0f6b52"/><stop offset="1" stop-color="#7cc456"/></linearGradient>
+  </defs>
+  <rect width="1200" height="760" fill="url(#bg)"/>
+  <circle cx="980" cy="140" r="120" fill="#fff8ea" opacity=".85"/>
+  <circle cx="170" cy="610" r="150" fill="#d9efc8" opacity=".85"/>
+  <rect x="135" y="170" width="930" height="420" rx="34" fill="#fffaf0" stroke="#0f6b52" stroke-width="8"/>
+  <rect x="210" y="270" width="175" height="220" rx="22" fill="url(#jade)"/>
+  <path d="M242 320h110v28H242zM242 372h80v22h-80zM242 417h115v20H242z" fill="#fffaf0"/>
+  <circle cx="297" cy="232" r="46" fill="#151c18"/>
+  <circle cx="282" cy="222" r="8" fill="#fff"/>
+  <circle cx="710" cy="392" r="110" fill="#1f2a24"/>
+  <circle cx="660" cy="300" r="42" fill="#1f2a24"/>
+  <circle cx="760" cy="300" r="42" fill="#1f2a24"/>
+  <circle cx="674" cy="380" r="12" fill="#fffaf0"/>
+  <circle cx="746" cy="380" r="12" fill="#fffaf0"/>
+  <path d="M690 425q20 18 40 0" fill="none" stroke="#fffaf0" stroke-width="9" stroke-linecap="round"/>
+  <rect x="835" y="305" width="130" height="185" rx="24" fill="#7cc456"/>
+  <path d="M855 350h90M855 390h72M855 430h88" stroke="#10251d" stroke-width="14" stroke-linecap="round"/>
+</svg>
